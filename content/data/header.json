@@ -12,7 +12,8 @@
                     "pb-3",
                     "pl-1",
                     "pr-1"
-                ]
+                ],
+                "borderRadius": "small"
             }
         },
         "type": "ImageBlock"
