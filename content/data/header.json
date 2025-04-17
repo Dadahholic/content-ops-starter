@@ -15,7 +15,7 @@
                 ],
                 "borderRadius": "small",
                 "borderWidth": 0,
-                "borderStyle": "dashed"
+                "borderStyle": "double"
             }
         },
         "type": "ImageBlock"
