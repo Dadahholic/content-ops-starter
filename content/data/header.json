@@ -13,7 +13,8 @@
                     "pl-1",
                     "pr-1"
                 ],
-                "borderRadius": "small"
+                "borderRadius": "small",
+                "borderWidth": 1
             }
         },
         "type": "ImageBlock"
