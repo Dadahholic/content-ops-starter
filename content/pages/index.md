@@ -59,11 +59,11 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/malawi-government-logo.png
         altText: Telus logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
